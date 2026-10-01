@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Moq" Version="4.21.0" />
-    <PackageReference Include="MSTest" Version="4.0.2" />
+    <PackageReference Include="MSTest" Version="4.4.1" />
     <PackageReference Include="MSTest.TestAdapter" Version="4.4.1" />
     <PackageReference Include="MSTest.TestFramework" Version="4.4.1" />
     <PackageReference Include="Pose" Version="1.2.1" />
